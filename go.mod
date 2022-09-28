@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/cloudevents/sdk-go/v2 v2.10.1 // indirect
 	github.com/kelseyhightower/envconfig v1.4.0 // indirect
-	github.com/keptn/go-utils v0.18.0
+	github.com/keptn/go-utils v0.19.0
 	gopkg.in/yaml.v3 v3.0.1 // indirect; pin v3.0.1 >= because of CVE-2022-28948
 )
 
